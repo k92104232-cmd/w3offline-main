@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Urdu Recipe Generator",
+  "description": "An application that generates recipes in Urdu based on a list of available ingredients, powered by the Gemini API.",
+  "requestFramePermissions": []
+}
